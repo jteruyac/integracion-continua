@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.manning.gia.todo.repository.InMemoryToDoRepositoryTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2015-07-18T18:30:18" hostname="Julio" time="0.006">
+<testsuite name="com.manning.gia.todo.repository.InMemoryToDoRepositoryTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2015-07-18T22:51:56" hostname="Julio" time="0.013">
   <properties/>
-  <testcase name="testInsertToDoItem" classname="com.manning.gia.todo.repository.InMemoryToDoRepositoryTest" time="0.002"/>
+  <testcase name="testInsertToDoItem" classname="com.manning.gia.todo.repository.InMemoryToDoRepositoryTest" time="0.007"/>
   <testcase name="testFindAllActiveToDoItems" classname="com.manning.gia.todo.repository.InMemoryToDoRepositoryTest" time="0.0"/>
-  <testcase name="testDeleteToDoItem" classname="com.manning.gia.todo.repository.InMemoryToDoRepositoryTest" time="0.0"/>
-  <testcase name="testFindAllToDoItems" classname="com.manning.gia.todo.repository.InMemoryToDoRepositoryTest" time="0.0"/>
+  <testcase name="testDeleteToDoItem" classname="com.manning.gia.todo.repository.InMemoryToDoRepositoryTest" time="0.001"/>
+  <testcase name="testFindAllToDoItems" classname="com.manning.gia.todo.repository.InMemoryToDoRepositoryTest" time="0.001"/>
   <testcase name="testFindAllCompletedToDoItems" classname="com.manning.gia.todo.repository.InMemoryToDoRepositoryTest" time="0.0"/>
   <testcase name="testFindToDoItemById" classname="com.manning.gia.todo.repository.InMemoryToDoRepositoryTest" time="0.0"/>
   <testcase name="testUpdateToDoItem" classname="com.manning.gia.todo.repository.InMemoryToDoRepositoryTest" time="0.0"/>

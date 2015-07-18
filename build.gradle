@@ -1,6 +1,7 @@
 apply plugin: 'java'
 apply plugin: 'war'
 apply plugin: 'jetty'
+apply plugin: 'jacoco'
 
 repositories {
     maven{ 
@@ -19,6 +20,6 @@ dependencies {
     testCompile 'junit:junit:4.11'
 }
 
-httpPort=8081
+httpPort=8082
 
 println "hello"
